@@ -22,7 +22,7 @@ const Footer = () => {
                 <ul className='socialLink mx-auto lg:ml-0'>
                 <a href={'https://www.linkedin.com/in/abid40/'} target='_blank' ><FaLinkedin/></a>
                     <a href={'https://github.com/abidur-abid'} target='_blank' ><FaGithub /></a>
-                    <a href={'https://www.upwork.com/freelancers/~01e8f0b5d950da36b8?viewMode=1'} target='_blank' ><SiUpwork /></a>
+                    {/* <a href={'https://www.upwork.com/freelancers/~01e8f0b5d950da36b8?viewMode=1'} target='_blank' ><SiUpwork /></a> */}
                     <a href={'https://web.facebook.com/abidurabid40'} target='_blank' ><FaFacebook /></a>
                     
                 </ul>

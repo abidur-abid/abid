@@ -35,10 +35,10 @@ const Skills = () => {
                 <Image src={reactjs} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>REACT JS</h1>
             </div>
-            <div className='card'>
+            {/* <div className='card'>
                 <Image src={reactrouter} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>REACT ROUTER</h1>
-            </div>
+            </div> */}
             <div className='card'>
                 <Image src={firebase} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>FIREBASE</h1>
@@ -47,22 +47,22 @@ const Skills = () => {
                 <Image src={nextjs} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>NEXT JS</h1>
             </div>
-            <div className='card'>
+            {/* <div className='card'>
                 <Image src={nodejs} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>NODE JS</h1>
-            </div>
-            <div className='card'>
+            </div> */}
+            {/* <div className='card'>
                 <Image src={expressjs} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>EXPRESS JS</h1>
-            </div>
+            </div> */}
             <div className='card'>
                 <Image src={mongodb} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>MONGODB</h1>
             </div>
-            <div className='card'>
+            {/* <div className='card'>
                 <Image src={mongoose} className='cardImg'/>
                 <h1 className='text-xl text-center -mt-8'>MONGOOSE</h1>
-            </div>
+            </div> */}
         </section>
     );
 };

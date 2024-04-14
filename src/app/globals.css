@@ -82,7 +82,7 @@ p{
     @apply text-xl text-center -mt-8
 }
 .skills{
-    @apply grid lg:grid-cols-6 grid-cols-3 items-center gap-10 mx-auto justify-center px-10 lg:px-0
+    @apply grid lg:grid-cols-5 grid-cols-3 items-center gap-5 mx-auto justify-center px-10 lg:px-0
 }
 .singleProject{
     @apply hover:scale-105 hover:duration-1000
