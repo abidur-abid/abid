@@ -19,7 +19,7 @@ const Hero = () => {
                 <h2 className='text-4xl text-center  mt-4 rounded font-bold '>Front-end Developer</h2>
             </div>
             <ul className='socialLink mt-4'>
-            <a href={'https://www.linkedin.com/in/abid40/'} target='_blank' ><FaLinkedin/></a>
+            <a href={'https://www.linkedin.com/in/mdabidurrahmanabid/'} target='_blank' ><FaLinkedin/></a>
                     <a href={'https://github.com/abidur-abid'} target='_blank' ><FaGithub /></a>
                     {/* <a href={'https://www.upwork.com/freelancers/~01e8f0b5d950da36b8?viewMode=1'} target='_blank' ><SiUpwork /></a> */}
                     <a href={'https://web.facebook.com/abidurabid40'} target='_blank' ><FaFacebook /></a>
