@@ -19,7 +19,7 @@ const Projects = () => {
                 <Link href='https://mdabid.netlify.app/' target='_blank' className='singleProject'><Image src={abid2} className='my-5 skeleton'/></Link>
                 <Link href='https://lgud.vercel.app/' target='_blank' className='singleProject'><Image src={lgud} className='lg:mt-12 my-5 skeleton'/></Link>
                 <Link href='https://client-23b8b.web.app/' target='_blank' className='singleProject'><Image src={abid1} className='lg:-mt-36 my-5 skeleton'/></Link>
-                <Link href='https://rakibsir-client.web.app/' target='_blank' className='singleProject'><Image src={rakib} className='lg:-mt-96 my-5 skeleton'/></Link>
+                <Link href='https://rakibsir-client.web.app/' target='_blank' className='singleProject'><Image src={rakib} className='lg:-mt-80 my-5 skeleton'/></Link>
                 <Link href='https://nexthunger.vercel.app/' target='_blank' className='singleProject'><Image src={nexthunger} className='lg:-mt-96 my-5 skeleton'/></Link>
            </div>
         </section>
