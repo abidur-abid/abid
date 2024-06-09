@@ -17,8 +17,8 @@ const Footer = () => {
         <footer className='px-10 lg:px-0'>
             <div className='footer'>
             <div className='footerInfo '>
-                <h1 className='logo mx-auto lg:ml-0'>Get In Touch</h1>
-                <p className='my-4 text-lg text-center lg:text-start'>I will be happy to talk with you. Just contact me by any media, which are mentioned on this website!</p>
+                <h1 className='logo mx-auto lg:ml-0 text-lg'>Get In Touch</h1>
+                <p className='my-4 text-center lg:text-start'>I will be happy to talk with you. Just contact me by any media,  which are mentioned on this website!</p>
                 <ul className='socialLink mx-auto lg:ml-0'>
                 <a href={'https://www.linkedin.com/in/mdabidurrahmanabid/'} target='_blank' ><FaLinkedin/></a>
                     <a href={'https://github.com/abidur-abid'} target='_blank' ><FaGithub /></a>

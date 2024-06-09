@@ -14,14 +14,11 @@ header{
     @apply -mt-20
 }
 .header,.footer{
-    @apply max-w-5xl mx-auto lg:flex justify-between items-center py-10
+    @apply max-w-6xl mx-auto lg:flex justify-between items-center py-10
 }
 .mobileHeader{
-    @apply max-w-5xl mx-auto flex justify-between items-center py-10
+    @apply max-w-6xl mx-auto flex justify-between items-center py-10
 }
-/* .mobileNav{
-    @apply w-32 
-} */
 .mobileNavLink{
     @apply flex justify-start items-center uppercase gap-1 text-base hover:text-secondaryColor
 }
@@ -82,7 +79,7 @@ p{
     @apply text-xl text-center -mt-8
 }
 .skills{
-    @apply grid lg:grid-cols-5 grid-cols-3 items-center gap-5 mx-auto justify-center px-10 lg:px-0
+    @apply grid lg:grid-cols-5 grid-cols-3 items-center gap-5 mx-auto justify-center px-10 lg:px-0 
 }
 .singleProject{
     @apply hover:scale-105 hover:duration-1000

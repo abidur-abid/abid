@@ -13,13 +13,14 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="backgroundColor  bg-fixed bg-cover	bg-no-repeat	opacity-75" >
+    <html lang="en" className="backgroundColor" >
       <body className={roboto.className}>
+      <div className="">
       <Header/>
-       <main className="max-w-6xl mx-auto lg:px-10">
+       <main className="max-w-6xl mx-auto lg:px-10 xs:w-full">
           {children}
         </main>
-      <Footer/>   
+      <Footer/>  </div> 
       <Toaster toastOptions={{
         style: {
           background: 'white',
